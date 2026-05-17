@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Census 2011 Data Analysis Using Python & Pandas
+# Indian Census 2011 Data Analysis Using Python & Pandas
 
 ## 📌 Project Overview
 
